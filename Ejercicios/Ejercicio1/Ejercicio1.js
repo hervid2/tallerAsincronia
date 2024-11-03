@@ -18,7 +18,12 @@ function imprimirNumeros(desde, hasta) {
   hasta = 20;
 
   for(let num = desde; num <= hasta; num++){
-    setTimeout()
+    setTimeout(() => {
+      console.log(num);
+      if(num === hasta){
+        console.log("Se ha llegado al final");
+      }
+    },3000 +(num - desde) *  500);
   }
   }
   imprimirNumeros();
