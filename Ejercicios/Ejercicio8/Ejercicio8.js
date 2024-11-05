@@ -37,7 +37,7 @@ const array = [
 ];
 
 function esMayorDeTreinta(array) {
-    return array.find(persona => persona.age > 34);
+    return array.findIndex(persona => persona.age > 34);
   }
   
   const personaMayorDeTreinta = esMayorDeTreinta(array);
