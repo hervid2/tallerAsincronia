@@ -1,7 +1,7 @@
 function miPromesa() {
     return new Promise((resolve) => {
       setTimeout(() => {
-        console.log("Promise resuelta");
+        console.log("Promesa resuelta!");
         resolve();
       }, 3000);
     });
