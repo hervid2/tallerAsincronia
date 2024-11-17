@@ -1,0 +1,50 @@
+[
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "profesion": "Programador",
+      "telefono": "1234567890",
+      "edad": 30,
+      "trabaja": true
+    },
+    {
+      "nombre": "María",
+      "apellido": "García",
+      "profesion": "Diseñadora",
+      "telefono": "9876543210",
+      "edad": 25,
+      "trabaja": true
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Rodríguez",
+      "profesion": "Médico",
+      "telefono": "5551234567",
+      "edad": 40,
+      "trabaja": true
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "profesion": "Abogada",
+      "telefono": "1119876543",
+      "edad": 35,
+      "trabaja": false
+    },
+    {
+      "nombre": "Luis",
+      "apellido": "González",
+      "profesion": "Profesor",
+      "telefono": "2221234567",
+      "edad": 50,
+      "trabaja": true
+    },
+    {
+      "nombre": "Sofía",
+      "apellido": "López",
+      "profesion": "Ingeniera",
+      "telefono": "3339876543",
+      "edad": 28,
+      "trabaja": true
+    }
+  ]
